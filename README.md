@@ -22,7 +22,7 @@ ShellBuddy is your interactive AI Linux companion that assists you directly in t
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ShellBuddy.git
+git clone https://github.com/Linuxifyy/ShellBuddy.git
 cd ShellBuddy
 
 # (Optional) Create virtual environment
