@@ -1,0 +1,10 @@
+{
+  "api_provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "allow_auto_execute": false,
+  "log_dir": "logs",
+  "api_keys": {
+    "GEMINI_API_KEY": "API KEY HERE",
+    "OPENAI_API_KEY": "API KEY HERE"
+  }
+}
