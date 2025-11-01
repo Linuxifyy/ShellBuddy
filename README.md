@@ -46,7 +46,7 @@ export OPENAI_API_KEY="your_api_key_here"
 ## Usage
 
 ```bash
-python3 troubleshooter.py
+python3 shellbudy.py
 ```
 
 * Enter tasks or problems as text.
